@@ -7,7 +7,7 @@ public class attempt11 extends Applet implements Runnable
 	int widthP;
 	int x;
 	int y ;
-	int t = 80;
+	int t = 20;
 	int w = 0;
 	double i = 0;
 	Thread bounce = null;
